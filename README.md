@@ -1,2 +1,2 @@
-# hw1
- Home work 1 in 4k-soft
+# hw3
+ Home work 3 in 4k-soft
